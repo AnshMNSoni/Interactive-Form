@@ -1,6 +1,6 @@
 # Interactive-Form
 
-### Language: HTML, CSS and Flask
+### Language: HTML and Flask
 
 --- 
 
